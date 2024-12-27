@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg:svg height="200" width="200" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<svg:rect height="180" style="fill: red" width="180" x="10" y="10" />
+	<svg:circle cx="100" cy="100" r="50" style="fill: yellow; stroke: black; stroke-width: 2" /><!-- 
+	Generated using the Perl SVG Module V2.44
+	by Ronan Oger
+	Info: http://www.roitsystems.com/
+ -->
+</svg:svg>

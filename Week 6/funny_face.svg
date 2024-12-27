@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg:svg height="400" width="400" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<svg:circle cx="150" cy="150" r="100" style="fill: yellow; stroke: black; stroke-width: 3" />
+	<svg:circle cx="110" cy="120" r="30" style="fill: white; stroke: black; stroke-width: 3" />
+	<svg:circle cx="190" cy="120" r="30" style="fill: white; stroke: black; stroke-width: 3" />
+	<svg:circle cx="90" cy="120" r="10" style="fill: black" />
+	<svg:circle cx="170" cy="120" r="10" style="fill: black" />
+	<svg:polygon points="150,130 130,180 170,180" style="fill: orange; stroke: black; stroke-width: 3" />
+	<svg:path d="M 100,190 Q 150,250 200,190" style="fill: transparent; stroke: black; stroke-width: 5" />
+	<svg:ellipse cx="150" cy="230" rx="25" ry="10" style="fill: red; stroke: black; stroke-width: 3" />
+	<svg:polygon points="80,50 220,50 180,10 120,10" style="fill: blue; stroke: black; stroke-width: 3" /><!-- 
+	Generated using the Perl SVG Module V2.44
+	by Ronan Oger
+	Info: http://www.roitsystems.com/
+ -->
+</svg:svg>
